@@ -83,15 +83,9 @@ Teniendo en cuenta que no solo disfruto de la programación y que deseo transfor
 De igual manera, sigo ampliando mis conocimientos segun sea requerido con el fin de optimizar mejor las aplicaciones o proyectos en los que me encuentre trabajando.
 </p>
 
-<!-- #
-  <h3 align="center">Algunos de mis proyectos 👾</h3>
-<Br> -->
-<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fernandoiosono&repo=HENRYPF)](https://github.com/YZeaFons/WeDelopp)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisaFGO&repo=PI-Videogames-main)](https://github.com/YZeaFons/F1---Drivers) -->
-
 #
 <h3 align="center">No dudes en contactarme:</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/federico-ruiz-gei/" target="blank"><img align="center" src="https://img.shields.io/badge/Yeison Zea-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:federuiz@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/yeisonyamidzea@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/Freetzen" target="blank"><img align="center" src="https://img.shields.io/badge/YZeaFons-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/federico-ruiz-gei/" target="blank"><img align="center" src="https://img.shields.io/badge/Federico Ruiz Gei-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:federuiz@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/federuizgei@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/Freetzen" target="blank"><img align="center" src="https://img.shields.io/badge/Freetzen-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
