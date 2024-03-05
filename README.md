@@ -1,6 +1,6 @@
 # 
 <div align="center">
- <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%3498DB&size=32&center=true&vCenter=true&width=600&height=50&lines=¡Hola,+soy+Federico+Ruiz+Gei!+%F0%9F%91%8B;Full+Stack+Web+Developer;Problem+Solved;Rapid+learning;Discipline;Curiosity+and+research" alt="Headline" />
+ <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%3498DB&size=32&center=true&vCenter=true&width=600&height=50&lines=¡Hola,+soy+Federico+Ruiz+Gei!+%F0%9F%91%8B;Full+Stack+Web+Developer;Problem+Solver;Rapid+learning;Discipline;Curiosity+and+research" alt="Headline" />
  </div>
 
 #
