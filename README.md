@@ -1,12 +1,12 @@
 # 
 <div align="center">
- <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%3498DB&size=32&center=true&vCenter=true&width=600&height=50&lines=¡Hola,+soy+Yeison+Zea!+%F0%9F%91%8B;Full+Stack+Developer;Ingeniero+Industrial;Problem+Solver;Rapid+learning;Discipline;Curiosity+and+research" alt="Headline" />
+ <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%3498DB&size=32&center=true&vCenter=true&width=600&height=50&lines=¡Hola,+soy+Federico+Ruiz+Gei!+%F0%9F%91%8B;Full+Stack+Web+Developer;Problem+Solved;Rapid+learning;Discipline;Curiosity+and+research" alt="Headline" />
  </div>
 
 #
 
 <h3>Quien Soy?</h3>
-<h4 align="center">Soy programador Full Stack, con formación como desarrollador web. Tengo experiencia trabajando en Node.js, Express, React, Redux, SQL, PostgreSQL, MongoDB, Mongoose, entre otras tecnologías del sector. Soy un apasionado por la tecnología y desde que estudiaba en la universidad me interesó la programación. También he desarrollado en VBA con el fin de crear herramientas en el hambito empresarial, que fueron de gran ayuda en su momento y la vez recibiendo el reconocimiento por parte de mis superiores.</h4>
+<h4 align="center">Soy programador Full Stack, con formación como desarrollador web. Tengo experiencia trabajando en Node.js, Express, React, Redux, SQL, PostgreSQL, MongoDB, Mongoose, entre otras tecnologías del sector. Soy un apasionado por la tecnología.</h4>
 
 # 
 <h3>Que hago?</h3>
