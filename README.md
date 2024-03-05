@@ -6,7 +6,7 @@
 #
 
 <h3>Quien Soy?</h3>
-<h4 align="center">Soy programador Full Stack, con formación como desarrollador web. Tengo experiencia trabajando en Node.js, Express, React, Redux, SQL, PostgreSQL, MongoDB, Mongoose, entre otras tecnologías del sector. Soy un apasionado por la tecnología.</h4>
+<h4 align="center">Soy un apasionado Desarrollador Full Stack Web con experiencia en diversas tecnologías clave como Node.js, Express, React, Redux, SQL, PostgreSQL, MongoDB, Mongoose. Mi trayectoria profesional me ha permitido adquirir habilidades sólidas en el diseño, desarrollo y despliegue de aplicaciones web completas. Me destaco por mi enfoque creativo para resolver problemas y mi capacidad para trabajar en equipo, adaptarme rápidamente a nuevos entornos y comunicarme efectivamente con colegas y clientes. Estoy constantemente buscando aprender y crecer en este dinámico campo tecnológico, y estoy emocionado por la oportunidad de contribuir a proyectos desafiantes y significativos como Desarrollador Full Stack Web.</h4>
 
 # 
 <h3>Que hago?</h3>
